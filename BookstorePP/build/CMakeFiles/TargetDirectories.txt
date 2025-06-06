@@ -1,0 +1,4 @@
+C:/Users/andre/OneDrive/Desktop/BookstorePP/BookstorePP/build/CMakeFiles/bookstore_admin.dir
+C:/Users/andre/OneDrive/Desktop/BookstorePP/BookstorePP/build/CMakeFiles/bookstore_cart.dir
+C:/Users/andre/OneDrive/Desktop/BookstorePP/BookstorePP/build/CMakeFiles/edit_cache.dir
+C:/Users/andre/OneDrive/Desktop/BookstorePP/BookstorePP/build/CMakeFiles/rebuild_cache.dir

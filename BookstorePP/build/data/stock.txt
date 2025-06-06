@@ -1,0 +1,5 @@
+4
+111 Ion Rebreanu 10 45.99
+112 Luceafarul Eminescu 5 39.99
+113 Harap-Alb Creanga 8 42.5
+101 C++Primer Lippman 15 39.99
